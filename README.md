@@ -32,6 +32,10 @@ A full-stack Task Manager application built using the **MERN Stack** (MongoDB, E
 - JWT (Access & Refresh Tokens)
 
 
+## Deployed Link 
+https://task-manager-one-ecru.vercel.app/
+
+
 
 
 
