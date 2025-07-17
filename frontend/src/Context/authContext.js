@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 export const AppContext = createContext();
 
 const AppContextProvider = ({ children }) => {
-  const backendUrl = 'http://localhost:8000';
+  const backendUrl = 'https://task-manager-8gob.onrender.com';
   const [token, setToken] = useState(localStorage.getItem("token") || "");
   
 
